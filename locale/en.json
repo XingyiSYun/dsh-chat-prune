@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "Chat Prune",
+    "description": "Hide a finished chat turn from the AI context, so the model never sees what you sent by mistake."
+  },
+  "action": "Remove from context",
+  "hint": "The AI will no longer see this turn; the transcript keeps the original text.",
+  "confirm": "Hide this turn from the AI?",
+  "confirmYes": "Remove",
+  "cancel": "Cancel",
+  "busy": "Removing…",
+  "removed": "Removed from context"
+}

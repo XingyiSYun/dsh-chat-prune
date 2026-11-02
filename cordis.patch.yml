@@ -1,0 +1,3 @@
+- insert:
+    - id: chat-prune
+      name: dsh-chat-prune
